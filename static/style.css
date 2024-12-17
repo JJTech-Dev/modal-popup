@@ -1,0 +1,19 @@
+
+
+#modal{
+    display: none;
+    position: fixed;
+    background-color: rgba(0, 0,0,0.5 );
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#modal-content {
+    background-color: white;
+    border: 1px solid black;
+    margin: 15%;
+    padding: 20px;
+
+}
